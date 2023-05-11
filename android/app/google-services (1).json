@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940143268312",
+    "project_id": "lungefood",
+    "storage_bucket": "lungefood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940143268312:android:eb0448628a9e677e1a62ad",
+        "android_client_info": {
+          "package_name": "com.example.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940143268312-mksece0ios1u8apj9o296mf6thlegev6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3M1x0uUIRE9XMWLnsGq7Yy60vgc1q2jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940143268312-mksece0ios1u8apj9o296mf6thlegev6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
